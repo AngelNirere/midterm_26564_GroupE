@@ -709,7 +709,7 @@ GET /api/employees/by-province?province=KG
 *Successfully creating a new asset category*
 
 ### 7. Assets with Pagination & Sorting
-![Assets Pagination](screenshots/assets_pagination.png)
+<img width="1051" height="768" alt="Image" src="https://github.com/user-attachments/assets/3dc855d1-7508-48b8-9815-dc3be06f1dee" />
 *Demonstrating pagination (page 0, size 5) and sorting by name in ascending order*
 
 ---
