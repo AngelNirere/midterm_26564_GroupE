@@ -20,7 +20,7 @@ This Asset Management System is a comprehensive solution for tracking company as
 
 ## 🛠️ Tech Stack
 
-- **Java 17**
+- **Java 25**
 - **Spring Boot 3.4.2**
 - **Spring Data JPA / Hibernate**
 - **PostgreSQL**
