@@ -685,7 +685,7 @@ GET /api/employees/by-province?province=KG
 ## 📸 Screenshots
 
 ### 1. Employee Retrieval - Successful API Response
-![Employee API Response](screenshots/employees_all.png)
+<img width="1037" height="752" alt="Image" src="https://github.com/user-attachments/assets/00d756b1-2e9f-4b18-82d6-ebba65cff403" />
 *Successfully retrieving all employees with department and village information*
 
 ### 2. Asset Categories - GET Request
