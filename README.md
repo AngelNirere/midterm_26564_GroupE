@@ -701,7 +701,7 @@ GET /api/employees/by-province?province=KG
 *Retrieving all departments (IT Department, HR Department)*
 
 ### 5. Locations by Type - Village Query
-![Locations Villages](screenshots/locations_villages.png)
+<img width="1029" height="767" alt="Image" src="https://github.com/user-attachments/assets/5264f1a2-b625-416b-813f-b8f1bd14b5bd" />
 *Querying all village-level locations showing hierarchical structure*
 
 ### 6. Asset Category Creation
