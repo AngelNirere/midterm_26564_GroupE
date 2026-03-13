@@ -689,7 +689,7 @@ GET /api/employees/by-province?province=KG
 *Successfully retrieving all employees with department and village information*
 
 ### 2. Asset Categories - GET Request
-![Asset Categories](screenshots/categories_all.png)
+<img width="1038" height="768" alt="Image" src="https://github.com/user-attachments/assets/8d1949f2-261a-49c1-92a6-2819e3c07e22" />
 *Fetching all asset categories (Laptops, Smart Phones, etc.)*
 
 ### 3. Employee Creation - POST Request
