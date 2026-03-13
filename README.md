@@ -631,7 +631,7 @@ GET /api/employees/by-province?province=KG
 ## ⚙️ Setup Instructions
 
 ### **Prerequisites**
-- Java 17 or higher
+- Java 25 
 - PostgreSQL 12 or higher
 - Maven 3.6+
 
@@ -705,7 +705,7 @@ GET /api/employees/by-province?province=KG
 *Querying all village-level locations showing hierarchical structure*
 
 ### 6. Asset Category Creation
-![Category Save](screenshots/category_save.png)
+<img width="1034" height="740" alt="Image" src="https://github.com/user-attachments/assets/8fd81ee3-72c2-4fba-854d-c71a614daffa" />
 *Successfully creating a new asset category*
 
 ### 7. Assets with Pagination & Sorting
