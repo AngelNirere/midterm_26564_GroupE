@@ -697,7 +697,7 @@ GET /api/employees/by-province?province=KG
 *Creating a new employee with village and department assignment*
 
 ### 4. Departments List
-![Departments](screenshots/departments_all.png)
+<img width="1048" height="762" alt="Image" src="https://github.com/user-attachments/assets/9d6823d4-1d9f-4b36-803e-da162ab29d21" />
 *Retrieving all departments (IT Department, HR Department)*
 
 ### 5. Locations by Type - Village Query
